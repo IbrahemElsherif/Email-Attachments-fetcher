@@ -1,0 +1,3 @@
+pikepdf>=5.0.0
+pywin32>=304
+pdfplumber>=0.11.4
