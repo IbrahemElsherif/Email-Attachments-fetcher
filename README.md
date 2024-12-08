@@ -6,12 +6,9 @@ This Python script provides a comprehensive tool for:
 - Fetching email attachments from Outlook based on a specific subject
 - Processing PDF files with various functionalities
 
-## Features
+![Demo](https://github.com/user-attachments/assets/628d25c1-646d-4901-b529-b9fbf82a863f)
 
-### Email Attachment Fetching
-- Search emails by subject
-- Extract attachments (all files or PDFs only)
-- Save attachments to a specified directory
+## Features
 
 ### PDF Processing
 - Combine multiple PDF files
@@ -24,11 +21,8 @@ This Python script provides a comprehensive tool for:
 - `win32com.client`
 - `pikepdf`
 - `pdfplumber`
-
 ### Installation
 
 1. Install required libraries:
-```bash
-pip install pywin32 pikepdf pdfplumber
 
-~~~
+```pip install -r requirements.txt```
