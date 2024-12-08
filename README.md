@@ -1,4 +1,4 @@
-# Outlook Email Attachment and PDF Processing Tool
+# Outlook Email Attachment Fetcher
 
 ## Overview
 
